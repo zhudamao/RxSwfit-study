@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Rx-Demo
+
+  Created by Zhu on 2020/5/13.
+  Copyright © 2020 Zhu. All rights reserved.
+*/
+
+"main" = "首页";
+"mine" = "我的";
+"source" = "来源:";
+"bidDate" = "招标时间:";
+"bidDetail" = "招标详情";
+"searchKey" = "查找的关键字";
+"getCode" = "获取验证码";
+"login" = "登录";
+"welcome" = "欢迎使用";
+"phone" = "手机号";
+"code" = "验证码";
+"password" = "密码";
+"loginSuccess" = "登录成功";

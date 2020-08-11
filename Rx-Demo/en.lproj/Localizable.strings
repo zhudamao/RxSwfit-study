@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Rx-Demo
+
+  Created by Zhu on 2020/5/13.
+  Copyright © 2020 Zhu. All rights reserved.
+*/
+"main" = "main";
+"mine" = "mine";
+"source" = "source:";
+"bidDate" = "bidDate:";
+"bidDetail" = "bidDetail";
+"searchKey" = "searchKey";
+"getCode" = "getCode";
+"login" = "login";
+"welcome" = "Welcome";
+"phone" = "phone";
+"code" = "code";
+"password" = "password";
+"loginSuccess" = "loginSuccess";
